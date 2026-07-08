@@ -1,4 +1,4 @@
-# cpse - Cross-Protocol Shared Exposure
+# [CPSE] - Cross-Protocol Shared Exposure
 
 I set out to measure whether "shadow contagion" in DeFi lending spreads through
 wallets that hold the same collateral on multiple protocols. Short answer: at
@@ -105,9 +105,3 @@ Full list in [methodology.md](methodology.md).
 One more thing: several addresses and citations suggested by AI tools during
 this project turned out to be wrong or made up. Every address, tx hash and
 citation in this repo was checked against a primary source before use.
-
-## Author
-
-Aleksandra Crnatovic ([@neoalexy](https://github.com/neoalexy)), Belgrade.
-Related work: ThreatWatch (CVE prioritization with EPSS vs CVSS), Vendor Risk
-Radar, Ethereum transactions crawler.
