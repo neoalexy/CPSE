@@ -94,13 +94,9 @@ data/                inputs and outputs, see data/README.md
 
 ## Limitations, honestly
 
-n = 2 quantitative cases, so nothing here is statistically significant and I
-don't claim it is. Fluid was never checked for any case, and that's a real gap,
-not a formality: Fluid reportedly absorbed over $10M of bad debt in the Resolv
-incident. The KelpDAO Euler check was skipped (vault delisted after the
-incident). Stream/xUSD block heights are manual estimates. A decimals-handling
-bug in the Aave script (fixed, see methodology.md) briefly hid one position.
-Full list in [methodology.md](methodology.md).
+Two case studies isn't enough for statistical significance, and I don't
+claim it is. Full list of gaps and estimates is in
+[methodology.md](methodology.md).
 
 One more thing: several addresses and citations suggested by AI tools during
 this project turned out to be wrong or made up. Every address, tx hash and
